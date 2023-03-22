@@ -1,0 +1,146 @@
+body{
+    background-color: #f7f7f9;
+    box-sizing: border-box;
+    margin: 0 auto;
+  
+}
+#formulaire{
+    background-color: #ffffff;
+    padding: 2%;
+   margin: auto;
+    border: 1px solid #f7f7f9;
+    border-radius: 28px;
+    width: 30%;
+    text-align: center;
+   
+}
+
+#bouton{
+    width: 60%;
+    text-align: center;
+    height: 45px;
+    background-color: #DC3545;
+
+    border-radius: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    font-size: x-large;
+    
+}
+.text{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    margin-bottom: 0px;
+    font-weight: 200;
+    font-size: 96px;
+}
+
+#check{
+    font-size: 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.navbar{
+    background-color: #DC3545 ;
+    width: 100%;
+    height: 65px;
+display: flex;
+
+}
+.containe{
+
+   
+    border-radius: 35px;
+
+ margin-top: 250px;
+}
+.photo{
+    width: 150px;
+ padding: 5px;
+
+ margin-top: 10px;
+}
+.photo1{
+    width: 50px;
+ padding: 5px;
+ 
+ margin-top: 10px;
+}
+.menu{
+    color: #ffffff;
+    margin-left:1900px;
+ margin-bottom: 300px;
+}
+#menu{
+    width: 550px;
+}
+#photo{
+  width: 130px;
+  height: 45px;
+  
+}
+.photo3{
+    width: 150px;
+ padding: 5px;
+
+ margin-top: 2px;
+}
+.input{
+    width: 100%;
+height: 50px;
+margin: 28px 0 0 0;
+box-shadow: 1px 3px 1px rgb(141, 139, 139);
+
+
+}
+#stext{
+    text-align: center;
+   
+}
+
+
+/* CSS pour la page Inscription.htm*/
+.btn{
+    text-align: center;
+}
+.tete-insc{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 18px;
+}
+.text1{
+   text-align: center;
+   margin-top: -100px;
+    margin-bottom: 0px;
+    font-weight: 200;
+    font-size: 35px;
+
+}
+.inputinsc{
+    width: 100%;
+height: 50px;
+margin: 8px 0 8px 0px;
+box-shadow: 1px 3px 1px rgb(141, 139, 139);
+}
+
+#forminscrip{
+    background-color: #ffffff;
+   margin-top: 200px;
+    border: 1px solid #f7f7f9;
+    border-radius: 28px;
+    padding: 4%;
+   margin: auto;
+   
+    border-radius: 28px;
+    width: 25%;
+   
+   
+    
+}
+/*css pour acceuil*/
+.titre{
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 168px;
+
+}
